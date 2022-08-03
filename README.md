@@ -1,7 +1,7 @@
 # 👨🏻‍💻 About Me
 - 👋 Hi, I’m @dangcaptkd2
-- 🎓 I am a Data Scientist
-- 👀 I have a strong interest in Data and AI field.
+- 🎓 I have a bachelor's degree at UIT and currently working as Data Scientist
+- 👀 I have a strong interest in Big Data and AI field.
 - 🌱 I’m currently learning and working in Data and AI skills such as modeling, engineering, analyzing, ...
 
 # 🤝🏻 Connect with Me
