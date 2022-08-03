@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @dangcaptkd2
 - 🎓 I am a Data Scientist
 - 👀 I have a strong interest in Data and AI field.
-- 🌱 I’m currently learning Data and AI skills such as modeling, engineering, analyzing, ...
+- 🌱 I’m currently learning and working in Data and AI skills such as modeling, engineering, analyzing, ...
 
 # 🤝🏻 Connect with Me
 [<img alt="alt_text" width="70px" src="https://logoeps.com/wp-content/uploads/2012/03/linkedin-icon-logo-vector.png"/>](https://vn.linkedin.com/in/quy%E1%BB%81n-th%E1%BB%8Bnh-a3a34b161)
