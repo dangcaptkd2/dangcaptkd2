@@ -1,6 +1,6 @@
 # 👨🏻‍💻 About Me
 - 👋 Hi, I’m @dangcaptkd2
-- 🎓 I have a bachelor's degree at UIT and currently working as Data Scientist
+- 🎓 I have a bachelor's degree at UIT and currently working as Data Engineer
 - 👀 I have a strong interest in Big Data and AI.
 
 # 🤝🏻 Connect with Me
