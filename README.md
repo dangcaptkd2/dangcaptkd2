@@ -16,6 +16,6 @@ Building AI pipelines and scalable systems. Focused on LLMs, RAG, and production
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://vn.linkedin.com/in/quy%E1%BB%81n-th%E1%BB%8Bnh-a3a34b161)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thinhquyen24/)
 
 ---
